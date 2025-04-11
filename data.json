@@ -1,0 +1,8 @@
+{
+  "DISCORD_TOKEN": "your bot token",
+
+  "ALLOWED_CHANNELS": {
+      "130306529561200": 1303071320740859
+  },
+  "DEFAULT_VOLUME": 0.25
+}
