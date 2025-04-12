@@ -57,3 +57,21 @@ pip install discord.py yt_dlp json asyncio
 ```arm
 python main.py
 ```
+
+---
+
+
+## 🙋‍♂️ Owner Info
+
+> This bot is developed by:
+
+- 👤 **Name**: Lokesh Prajapat
+- 💬 **Discord Server**: [CodeCanvas](https://discord.gg/trYJRwYQZ3)
+- 🛠️ **GitHub**: [github.com/nexxlokesh](https://github.com/nexxlokesh)
+- 🌐 **Website/Portfolio (optional)**: [nexxlokesh.pro](https://nexxlokesh.pro)
+
+For queries, support, or collaboration, feel free to reach out via Discord or GitHub.
+
+---
+
+**© 2025 NexxGuard — All Rights Reserved**
